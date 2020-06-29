@@ -1,3 +1,4 @@
-import pygame.examples.aliens as game
+import pygame
 
-game.main()
+for x in range(10):
+  print(x)
