@@ -1,4 +1,4 @@
 import pygame
 
-for x in range(10):
-  print(x)
+x = 10
+print(x)
